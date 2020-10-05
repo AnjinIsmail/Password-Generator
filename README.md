@@ -8,3 +8,12 @@ This code's main purpose is to generate a password with a set of specific criter
 3) The user can choose between uppercase, lowercase, numbers, and special character to be included in their password. 
 4) Final step, the password is offically generated based on the users choices.
 
+## screenshots below:
+
+<img src= "https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/1.png?raw=true">
+<img src= "https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/2.png?raw=true">
+<img src= "https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/3.png?raw=true">
+<img src ="https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/4.png?raw=true">
+<img src ="https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/5.png?raw=true">
+<img src ="https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/6.png?raw=true">
+<img src ="https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/7.png?raw=true">

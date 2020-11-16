@@ -8,6 +8,7 @@ This code's main purpose is to generate a password with a set of specific criter
 3) The user can choose between uppercase, lowercase, numbers, and special character to be included in their password. 
 4) Final step, the password is offically generated based on the users choices.
 
+## Deployed app: https://anjinismail.github.io/Password-Generator/
 ## screenshots below:
 
 <img src= "https://github.com/AnjinIsmail/Password-Generator/blob/main/Screenshot/1.png?raw=true">
